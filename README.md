@@ -6,6 +6,10 @@ Basically, So_Long is about you creating your first 2D game. It's supposed to be
 The idea is really straightforward:  
 - You'll display a map with some collectables and a character on the screen  
 - The character must collect all the items before leaving the map  
+  
+If you're new to this (as I was), you may ask: Okay, I know how to deal with I/O and to write functions at this point, but how will I deal with graphic elements?  
+So here it is the awaited, the one, the only...    
 
+## The MiniLibx (or: *getting to know the graphic library*)  
 
 
