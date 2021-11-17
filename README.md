@@ -20,6 +20,7 @@ Okay, we knew this. But I wanted to point out. You'll incorporate the MiniLibx (
  - Parsing  
  - Storing
  - Validating  
+  
 Let's take a step back.  
 1. Your program will receive a document .ber as an argument.  
 2. This document will serve as a frame (a skeleton) for the images you'll put on the window.  
