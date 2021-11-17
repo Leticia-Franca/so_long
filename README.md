@@ -12,4 +12,5 @@ So here it is the awaited, the one, the only...
 
 ## The MiniLibx (or: *getting to know the graphic library*)  
 
+## The Part You Play (or: *your code in the loop and.. the graphic elements per se*)  
 
