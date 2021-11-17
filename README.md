@@ -17,7 +17,9 @@ What is in this sandwich?
 ## The Part You Play (or: *your code in the loop and.. the graphic elements per se*)  
 **pun not intended.. or is it?**  
 Okay, we knew this. But I wanted to point out. You'll incorporate the MiniLibx (which is the big news here), and aside from that, you'll put to use *in a new bright light* what you already know and came to (maybe?) appreciate:  
-**Parsing, storing and validating**  
+ - Parsing  
+ - Storing
+ - Validating  
 Let's take a step back.  
 1. Your program will receive a document .ber as an argument.  
 2. This document will serve as a frame (a skeleton) for the images you'll put on the window.  
