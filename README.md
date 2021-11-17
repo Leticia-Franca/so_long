@@ -16,5 +16,13 @@ But what exactly is in between the connection with the graphic server and the fu
 What is in this sandwich?  
 ## The Part You Play (or: *your code in the loop and.. the graphic elements per se*)  
 **pun not intended.. or is it?**  
-Okay, we already knew this. But I wanted to point more directly at this. You'll incorporate the MiniLibx (which is the big news here), and aside from that, you'll put to use *in a new bright light* what you know and came to (maybe?) appreciate:  
+Okay, we knew this. But I wanted to point out. You'll incorporate the MiniLibx (which is the big news here), and aside from that, you'll put to use *in a new bright light* what you already know and came to (maybe?) appreciate:  
 **Parsing, storing and validating**  
+Let's take a step back.  
+1. Your program will receive a document .ber as an argument.  
+2. This document will serve as a frame (a skeleton) for the images you'll put on the window.  
+3. You have to find a way for your program to:
+    - Keep its content, so your program can access it when needed;  
+    - Validate this content in accordance with the project's rules;  
+    - Manipulate this content whenever some event happens (a.k.a the user interacts with the game);  
+4. And you'll display your game based on this content (I'm basically reinforcing point 2 here) *over and over*.  
