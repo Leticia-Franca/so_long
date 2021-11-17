@@ -14,12 +14,9 @@ So here it is the awaited, the one, the only...
 
 But what exactly is in between the connection with the graphic server and the function that'll loop through the program over and over to keep and update the game?  
 What is in this sandwich?  
-## The Part You Play (or: *your code in the loop and.. the graphic elements per se*)  
+## The Part You Play (or: *your code in the loop*)  
 **pun not intended.. or is it?**  
-Okay, we knew this. But I wanted to point out. You'll incorporate the MiniLibx (which is the big news here), and aside from that, you'll put to use *in a new bright light* what you already know and came to (maybe?) appreciate:  
- - Parsing  
- - Storing
- - Validating  
+Okay, we knew this. But I wanted to point out. You'll incorporate the MiniLibx (which is the big news here), and aside from that, you'll put to use *in a new bright light* what you already know and came to (maybe?) appreciate: **parsing and validating**  
   
 Let's take a step back.  
 1. Your program will receive a document .ber as an argument.  
