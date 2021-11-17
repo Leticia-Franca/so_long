@@ -12,6 +12,8 @@ So here it is the awaited, the one, the only...
 
 ## The MiniLibx (or: *getting to know the graphic library*)  
 
+But what is in between the connection with the graphic server and the function that'll loop through the code over and over to keep and update the game?  
+What is in this sandwich?  
 ## The Part You Play (or: *your code in the loop and.. the graphic elements per se*)  
 **pun not intended.. or is it?**  
 
