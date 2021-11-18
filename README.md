@@ -7,7 +7,7 @@ The idea is really straightforward:
 - You'll display a map with some collectables and a character on the screen  
 - The character must collect all the items before leaving the map  
   
-Aside from the graphic elements management (which will be dealt with by the graphic library functions we have to incorporate in the program), the code you'll actually write (a.k.a *the part you play*. Pun ~~not~~ intended) gravitates on aspects you already know and came to appreciate: **parsing, storing and validating**.  
+Aside from the graphic elements management (which will be dealt with by the graphic library functions we have to incorporate in the program), the code we actually write (a.k.a *the part you play*. Pun ~~not~~ intended) gravitates on aspects you already know and came to appreciate: **parsing, storing and validating**.  
 If you're new to this (as I was), you may ask: Okay, I know how to deal with I/O and to write functions at this point, but how will I deal with graphic elements?  
 
 ## The MiniLibx (or: *getting to know the graphic library*)  
