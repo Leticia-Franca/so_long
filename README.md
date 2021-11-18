@@ -13,4 +13,4 @@ So here it is the awaited, the one, the only...
 
 ## The MiniLibx (or: *getting to know the graphic library*)  
 
-
+So, we already know this is the set of functions that'll allow us to manage and manipulate the graphic elements in this project. Some of the functions are:  
