@@ -7,22 +7,10 @@ The idea is really straightforward:
 - You'll display a map with some collectables and a character on the screen  
 - The character must collect all the items before leaving the map  
   
+Aside from the graphic elements management (which will be dealt with by the graphic library functions we have to incorporate in the program), the the code you'll actually write (a.k.a *the part you play*. Pun ~~not~~ intended) will gravitate on aspects you'll already know and came to appreciate: **parsing, storing and validating**.  
 If you're new to this (as I was), you may ask: Okay, I know how to deal with I/O and to write functions at this point, but how will I deal with graphic elements?  
 So here it is the awaited, the one, the only...    
 
 ## The MiniLibx (or: *getting to know the graphic library*)  
 
-But what exactly is in between the connection with the graphic server and the function that'll loop through the program over and over to keep and update the game?  
-What is in this sandwich?  
-## The Part You Play (pun ~~not~~ intended)   
-Yes, all of this is the part you play, but I wanted to point out: You'll incorporate the MiniLibx (which is the big news here), and aside from that, you'll put to use *in a new bright light* what you already know and came to (maybe?) appreciate: **parsing and validating**.  
-  
-Let's take a step back.  
-1. Your program will receive a document .ber as an argument.  
-2. This document will serve as a frame (a skeleton) for the images you'll put on the window.  
-3. You have to find a way for your program to:
-    - Keep its content, so your program can access it when needed;  
-    - Validate this content in accordance with the project's rules;  
-    - Manipulate this content whenever some event happens (a.k.a the user interacts with the game);  
-4. And you'll display your game based on this content (I'm basically reinforcing point 2 here) *over and over*.  
-  
+
