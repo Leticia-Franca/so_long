@@ -9,11 +9,10 @@ The idea is really straightforward:
   
 Aside from the graphic elements management (which will be dealt with by the graphic library functions we have to incorporate in the program), the the code you'll actually write (a.k.a *the part you play*. Pun ~~not~~ intended) will gravitate on aspects you'll already know and came to appreciate: **parsing, storing and validating**.  
 If you're new to this (as I was), you may ask: Okay, I know how to deal with I/O and to write functions at this point, but how will I deal with graphic elements?  
-So here it is the awaited, the one, the only...    
 
 ## The MiniLibx (or: *getting to know the graphic library*)  
 
 In summary, this library provides functions to open and manage windows, draw pixels, insert and destroy images and, of course, keep your program on a loop. Below, some useful links to practice and understand the MiniLibX better:  
-[tutorial with examples](https://gontjarow.github.io/MiniLibX/)  
-[some awesome explaining about MLX Images](https://github.com/keuhdall/images_example)  
+[Tutorial with examples](https://gontjarow.github.io/MiniLibX/)  
+[Some awesome explaining about MLX Images](https://github.com/keuhdall/images_example)  
 
