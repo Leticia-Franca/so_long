@@ -13,4 +13,7 @@ So here it is the awaited, the one, the only...
 
 ## The MiniLibx (or: *getting to know the graphic library*)  
 
-So, we already know this is the set of functions that'll allow us to manage and manipulate the graphic elements in this project. Some of the functions are:  
+In summary, this library provides functions to open and manage windows, draw pixels, insert and destroy images and, of course, keep your program on a loop. Below, some useful links to practice and understand the MiniLibX better:  
+[tutorial with examples](https://gontjarow.github.io/MiniLibX/)  
+[some awesome explaining about MLX Images](https://github.com/keuhdall/images_example)  
+
