@@ -1,4 +1,4 @@
-# so_long 
+# so_long 👾
 <div align="center">
   <img src="https://github.com/Leticia-Franca/so_long/blob/main/img_files/so_long3.gif"/>
 </div>
