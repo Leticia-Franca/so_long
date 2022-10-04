@@ -2,7 +2,9 @@
 <div align="center">
   <img src="https://github.com/Leticia-Franca/so_long/blob/main/img_files/so_long3.gif"/>
 </div>
-    
+  
+___
+
 So_Long is a simple 2D game. As a player, you have to collect all the items on the map before going through the stairs. To move, you can use either W, A, S, D or the arrow keys. It will exit the game window both when ESC is pressed or the cross button is clicked. The map generated for the game must be a file with '.ber' as an extension. It will contain characters to serve as a 'frame' for the place. The system is:  
  - '0' for empty spaces  
  - '1' for walls  
