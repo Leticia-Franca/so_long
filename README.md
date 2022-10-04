@@ -3,15 +3,37 @@
   <img src="https://github.com/Leticia-Franca/so_long/blob/main/img_files/so_long3.gif"/>
 </div>
     
-This project is my first 2D game. It's supposed to be simple 😁 (I'll have lots of chances to go crazy making games in the future, haha).  
-The idea is really straightforward:  
-- I'm displaying a map with some collectables and a character on the screen  
-- The character must collect all the items before leaving the map  
+So_Long is a simple 2D game. As a player, you have to collect all the items on the map before going through the stairs. To move, you can use either W, A, S, D or the arrow keys. It will exit the game window both when ESC is pressed or the cross button is clicked. The map generated for the game must be a file with '.ber' as an extension. It will contain characters to serve as a 'frame' for the place. The system is:  
+ - '0' for empty spaces  
+ - '1' for walls  
+ - 'P' for the player  
+ - 'C' for the collectibles  
+ - 'E' for the exit  
+   
+As an example, below is the file that generated the map for the image above:  
+<div>
+  <img src="img_files/map_so_long_1.png"/>
+</div>
+ 
+The rules are simple:  
+  - The character must collect all items before leaving the map  
+  - The map must have different values for width and height  
+  - It must be surrounded by walls  
+  - It must contain at least one collectable and one exit  
+  - No more than one player, of course  
   
-Aside from the graphic elements management (which will be dealt with by the graphic library incorporated in the program), the code gravitates on aspects already acknowledged:  
-> Parsing  
-> Storing  
-> Validating      
+## Installation  
+**Clone this repo**  
+> git clone [repo url] [directory name]  
+  
+**Enter the directory you created**  
+> cd [directory name]  
+  
+** 'Make' to generate the executable  
+> make  
+  
+** Run the program including the name of the file (or the path, if it's in a directory of its own) containing the map**  
+> ./so_long ./maps/map01.ber
 
 ## 🛠 The MiniLibx (or: *getting to know the graphic library*)  
 
