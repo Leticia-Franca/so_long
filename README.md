@@ -32,7 +32,7 @@ The rules are simple:
 **'Make' to generate the executable**  
 > make  
   
-**Run the program including the name of the file (or the path, if it's in a directory of its own) containing the map**  
+**Run the program including the name of the map file** (or the path, if it's in a directory of its own)    
 > ./so_long ./maps/map01.ber
 
 ## 🛠 The MiniLibx (or: *getting to know the graphic library*)  
