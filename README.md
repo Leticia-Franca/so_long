@@ -28,7 +28,7 @@ The rules are simple:
 **Clone this repo**  
 > git clone [repo url] [directory name]  
   
-**Enter the directory you created**  
+**Enter the project's directory**  
 > cd [directory name]  
   
 **'Make' to generate the executable**  
