@@ -36,7 +36,7 @@ int	main(int argc, char *argv[])
 	else
 	{
 		ft_putendl_fd("Error", 2);
-		ft_putendl_fd("Numero de argumentos inapropriado!", 2);
+		ft_putendl_fd("Inappropriate number of arguments!", 2);
 		exit(1);
 	}
 	return (0);
